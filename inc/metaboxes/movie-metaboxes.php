@@ -5,7 +5,7 @@ function saplugin_add_movie_metaboxes(){
         'saplugin_movie_metabox_id',
         'Movie Options',
         'saplugin_movie_metaboxes_template',
-        'movie'
+        'movie'  //post type- where to show
     );
 
 }

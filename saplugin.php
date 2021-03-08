@@ -53,3 +53,9 @@ require_once MYPLUGIN_PATH. '/inc/taxonomies/movie-taxonomy.php';
  * Include Metaboxes
  */
 require_once MYPLUGIN_PATH . '/inc/metaboxes/movie-metaboxes.php';
+
+
+/**
+ * Include Movie filed new Data table
+ */
+require_once MYPLUGIN_PATH . '/inc/data-tables/movie-data-table.php';
