@@ -1,0 +1,1 @@
+<h1>This is custom template<h1>
