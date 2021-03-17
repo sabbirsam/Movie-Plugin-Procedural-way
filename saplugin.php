@@ -66,3 +66,8 @@ require_once MYPLUGIN_PATH . '/inc/data-tables/movie-data-table.php';
 
 require_once MYPLUGIN_PATH. '/inc/menus/menus.php';
 
+/**
+ * Include Register Field on Register page
+ */
+
+require_once MYPLUGIN_PATH. '/inc/register-field/register-field.php';
